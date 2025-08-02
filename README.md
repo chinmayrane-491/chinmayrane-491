@@ -1,14 +1,14 @@
 ### Hi there!  I’m @chinmayrane-491 👋
 
 #### About Me
-I'm Chinmay Rane, a Student based in Mumbai. I’m passionate about Web Design, Full Web Development, Fronted Development, Backend Development.
+I'm Chinmay Rane, a Student based in Mumbai. I’m passionate about Web Design, Full stack Web Development, Fronted Development, Backend Development.
 
 #### What I Do
 Web Design: I love crafting visually appealing and user-friendly designs that enhance the user experience.
 Frontend Development: I specialize in building responsive and interactive user interfaces using modern technologies.
 Backend Development: I’m experienced in developing robust server-side applications and managing databases to ensure seamless functionality.
 
-#### Skills
+#### Technical Skills
 Programming Languages: HTML, CSS, JavaScript,Bootstrap,Java,Python,PHP.
 Frameworks & Tools: React.js ,Node.js, Expressjs, or Django, MySQL, MongoDB,Springboot.
 Other Skills: UI/UX design, Graphic Design, Photoshop, Adoed XD, Figma.
