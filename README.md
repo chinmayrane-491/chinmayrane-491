@@ -14,19 +14,29 @@ Frontend Development: I specialize in building responsive and interactive user i
 Backend Development: I’m experienced in developing robust server-side applications and managing databases to ensure seamless functionality.
 
 ### Soft SKILLS 
-• Team collaboration    
+• Team collaboration
+
 • Effective communication 
+
 • Critical thinking     
+
 • Active listening 
+
 • Task prioritization
 
 ### TECHNICAL SKILLS 
 • Languages: Python, Java, C++, JavaScript 
+
 • Web Dev: HTML5, CSS3, Bootstrap, React.js 
+
 • Backend: Node.js, Express.js 
+
 • Databases: MongoDB, MySQL 
+
 • Data Analysis & ETL: Power BI, SQL (ETL, queries, analysis) 
+
 • Tools: Git, GitHub, VS Code, Figma, Adobe XD, Photoshop 
+
 • Others: API Integration, AI/ML (OpenCV, Keras), Agile Workflow
 
 
