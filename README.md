@@ -45,26 +45,37 @@ Here are a few projects I’m proud of:
 
 PROJECTS 
 1. Online Food Ordering System – Kashiram Fast Food : 
-Tech Stack: HTML, CSS, JavaScript, PHP, MySQL 
+Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
+
   • Designed and developed a responsive online ordering platform with user registration, cart 
-    functionality, and secure checkout. 
-  • Implemented backend data storage using MySQL, optimizing queries for fast performance. 
+    functionality, and secure checkout.
+   
+  • Implemented backend data storage using MySQL, optimizing queries for fast performance.
+  
   • Enabled real-time order processing and receipt generation post-purchase. 
+  
   • Result: Reduced manual order tracking and improved customer experience. 
 
-2. AI-Powered News & Quiz Web App :  
-Tech Stack: HTML, CSS, JavaScript, PHP, NewData API, Gemini AI API 
+3. AI-Powered News & Quiz Web App :  
+Tech Stack: HTML, CSS, JavaScript, PHP, NewData API, Gemini AI API
+
   • Designed and developed a full-stack web app tailored for competitive exam aspirants to stay 
     updated with current affairs. 
+    
   • Integrated external news APIs to fetch, categorize, and display daily news dynamically. 
+  
   • Utilized Gemini AI to auto-generate 30 MCQs based on fetched articles, displaying 25 randomly to 
     the user during a quiz session. 
+    
   • Improved user learning efficiency through interactive quizzes and performance visualization. 
 
-3. Emotion-Based YouTube Song Recommender : 
-Tech Stack: Python, Keras, OpenCV  
+5. Emotion-Based YouTube Song Recommender : 
+Tech Stack: Python, Keras, OpenCV
+
   • Built an ML model trained on facial emotion datasets to detect mood in under 5 seconds. 
+  
   • Integrated YouTube API to recommend songs based on real-time detected emotion. 
+  
   • Result: Improved personalization and emotion recognition accuracy to 85-90%.
 
 
