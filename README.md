@@ -1,24 +1,62 @@
 ### Hi there!  I’m @chinmayrane-491 👋
 
 #### About Me
-I'm Chinmay Rane, a Student based in Mumbai. I’m passionate about Web Design, Full stack Web Development, Fronted Development, Backend Development.
+I'm Chinmay Rane, a student based in Mumbai, passionate about web design and full-stack web development.
+
+Aspiring Full Stack Web Developer and UI/UX Designer with a strong foundation in both frontend and backend technologies, including React, Node.js, MongoDB, and Express.js. Skilled in building user-friendly, scalable, and responsive web applications.
+
+I have experience developing AI-driven tools, real-time data applications, and clean, efficient database architectures. I'm passionate about applying design thinking, continuous learning, and agile development methodologies to solve real-world problems.
+
 
 #### What I Do
 Web Design: I love crafting visually appealing and user-friendly designs that enhance the user experience.
 Frontend Development: I specialize in building responsive and interactive user interfaces using modern technologies.
 Backend Development: I’m experienced in developing robust server-side applications and managing databases to ensure seamless functionality.
 
-#### Technical Skills
-Programming Languages: HTML, CSS, JavaScript,Bootstrap,Java,Python,PHP.
-Frameworks & Tools: React.js ,Node.js, Expressjs, or Django, MySQL, MongoDB,Springboot.
-Other Skills: UI/UX design, Graphic Design, Photoshop, Adoed XD, Figma.
+### Soft SKILLS 
+• Team collaboration    
+• Effective communication 
+• Critical thinking     
+• Active listening 
+• Task prioritization
+
+### TECHNICAL SKILLS 
+• Languages: Python, Java, C++, JavaScript 
+• Web Dev: HTML5, CSS3, Bootstrap, React.js 
+• Backend: Node.js, Express.js 
+• Databases: MongoDB, MySQL 
+• Data Analysis & ETL: Power BI, SQL (ETL, queries, analysis) 
+• Tools: Git, GitHub, VS Code, Figma, Adobe XD, Photoshop 
+• Others: API Integration, AI/ML (OpenCV, Keras), Agile Workflow
+
 
 #### Projects
 Here are a few projects I’m proud of:
 
-1) Kashiram Fast Food : The project “Kashiram Fast Food” allows users to check for various Food Items available at the online store and purchase online. The project consists of list of Food Items displayed in various categories. The user may browse through these items as per categories. If the user likes a product he may add it to his shopping cart. Once user wishes to checkout he must register on the site first. He can then login using same id password next time. Now he may pay through a credit card or cash on delivery. Once the user makes a successful transaction he gets a copy of the shopping receipt. This project is simple, quick, and precise. There is less disk space needed. MySQL server is used as the backbone by the “Kashiram Fast Food” system, eliminating the risk of data loss and ensuring data security.
+PROJECTS 
+1. Online Food Ordering System – Kashiram Fast Food : 
+Tech Stack: HTML, CSS, JavaScript, PHP, MySQL 
+  • Designed and developed a responsive online ordering platform with user registration, cart 
+    functionality, and secure checkout. 
+  • Implemented backend data storage using MySQL, optimizing queries for fast performance. 
+  • Enabled real-time order processing and receipt generation post-purchase. 
+  • Result: Reduced manual order tracking and improved customer experience. 
 
-For more details on these and other projects, please check out my GitHub repository.
+2. AI-Powered News & Quiz Web App :  
+Tech Stack: HTML, CSS, JavaScript, PHP, NewData API, Gemini AI API 
+  • Designed and developed a full-stack web app tailored for competitive exam aspirants to stay 
+    updated with current affairs. 
+  • Integrated external news APIs to fetch, categorize, and display daily news dynamically. 
+  • Utilized Gemini AI to auto-generate 30 MCQs based on fetched articles, displaying 25 randomly to 
+    the user during a quiz session. 
+  • Improved user learning efficiency through interactive quizzes and performance visualization. 
+
+3. Emotion-Based YouTube Song Recommender : 
+Tech Stack: Python, Keras, OpenCV  
+  • Built an ML model trained on facial emotion datasets to detect mood in under 5 seconds. 
+  • Integrated YouTube API to recommend songs based on real-time detected emotion. 
+  • Result: Improved personalization and emotion recognition accuracy to 85-90%.
+
 
 #### Get in Touch
 I’m always excited to connect with fellow developers and tech enthusiasts! Feel free to reach out to me through:
